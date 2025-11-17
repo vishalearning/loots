@@ -1,7 +1,7 @@
 
 export async function handler(event, context) {
   try {
-    const MAX_WHATSAPP = 10;
+    const MAX_WHATSAPP = 3;
 
     const encodedLinks = [
       "aHR0cHM6Ly93YS5tZS85MTk5MDAyMzk1ODk=",
